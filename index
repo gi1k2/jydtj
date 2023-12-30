@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starbucks coffe</title>
+    <link rel="stylesheet" href="D:/wed pr 6/css/1.css">
+
+</head>
+
+<body>
+    <header><img src="/D:\wed pr 6/img/logo.png" width="5%">
+        <nav>
+
+            <ul>
+                <li><b>MENU</b></li>
+                <li><b>REWARDSS</b></li>
+                <li><b>GIFTCARDS</b></li>
+            </ul>
+        </nav>
+    </header>
